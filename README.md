@@ -17,7 +17,7 @@
 
 **Home Page Mars Scrapping**
 
-![Mars Scrapping Home page](./mars_scrapping_home.png)
+![Mars Scrapping Home page](./Resources/mars_scrapping_home.png)
 
 **Enhanced Mars facts table**
 
